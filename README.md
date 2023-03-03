@@ -4,7 +4,7 @@ This is a chatbot demo using [ChatGPT API](https://platform.openai.com/docs/guid
         
 The web app is hosted on [streamlit cloud](https://streamlit.io/cloud). 
         
-You may get the codes [HERE](https://github.com/richieyuyongpoh/sentimentalAnalysis). 
+You may get the codes [HERE](https://github.com/richieyuyongpoh/chatbotGPT). 
 
 Note: The bot's behavior has been preset. She is 'a very smart data science professor who can explain data science very well using layman's terms.
 
