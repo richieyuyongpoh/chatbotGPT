@@ -32,7 +32,7 @@ if readme:
     st.write("""
         This is a chatbot demo using [ChatGPT API](https://platform.openai.com/docs/guides/chat). 
         The web app is hosted on [streamlit cloud](https://streamlit.io/cloud). 
-        You may get the codes [HERE](https://github.com/richieyuyongpoh/sentimentalAnalysis). 
+        You may get the codes [HERE](https://github.com/richieyuyongpoh/chatbotGPT). 
         """)
     
     st.write("""
